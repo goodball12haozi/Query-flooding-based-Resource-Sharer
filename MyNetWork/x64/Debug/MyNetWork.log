@@ -1,0 +1,12 @@
+﻿  Transfer.cpp
+d:\program\mynetwork\mynetwork\transfer.cpp(63): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\program\mynetwork\mynetwork\transfer.cpp(207): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\program\mynetwork\mynetwork\transfer.cpp(237): warning C4244: “=”: 从“std::streamsize”转换到“int”，可能丢失数据
+d:\program\mynetwork\mynetwork\transfer.cpp(254): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+d:\program\mynetwork\mynetwork\transfer.cpp(257): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\program\mynetwork\mynetwork\transfer.cpp(291): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+d:\program\mynetwork\mynetwork\transfer.cpp(333): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+d:\program\mynetwork\mynetwork\transfer.cpp(336): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  main.cpp
+  正在生成代码...
+  MyNetWork.vcxproj -> D:\Program\MyNetwork\x64\Debug\MyNetWork.exe
